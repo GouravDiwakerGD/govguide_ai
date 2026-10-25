@@ -1,0 +1,37 @@
+DOCUMENT TYPE: Demo source summary based on the official PM-KISAN Operational Guidelines published by the Department of Agriculture & Farmers Welfare, Government of India.
+OFFICIAL SOURCE: https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines%28English%29.pdf
+IMPORTANT: This text is a project demo summary, not a replacement for the official document. Always verify current rules on the official government portal.
+
+SCHEME OVERVIEW
+Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector Scheme intended to provide income support to eligible landholding farmers' families with cultivable land, subject to exclusions described in the operational guidelines.
+
+BENEFIT
+The revised operational guidelines describe a benefit of Rs. 6000 per year released directly to the bank accounts of eligible farmers through Direct Benefit Transfer, subject to the scheme's exclusions.
+
+FARMER FAMILY DEFINITION
+A landholding farmer family is defined as a family comprising husband, wife and minor children who owns cultivable land as per the land records of the concerned State/UT. The existing land ownership system is used for identification of beneficiaries.
+
+MAJOR EXCLUSIONS DESCRIBED IN THE GUIDELINES
+The guidelines exclude institutional land holders. They also list categories such as former and present holders of constitutional posts; certain former and present Ministers, Members of Parliament, Members of State Legislative Assemblies or Councils, Mayors of Municipal Corporations and Chairpersons of District Panchayats.
+
+GOVERNMENT EMPLOYEE EXCLUSION
+Certain serving or retired officers and employees of Central or State Government Ministries, Offices, Departments and field units, Central or State Public Sector Enterprises and certain autonomous institutions are excluded, subject to the detailed wording and exceptions in the official guidelines.
+
+INCOME TAX EXCLUSION
+Certain farmer families where one or more members paid income tax in the previous assessment year are excluded, according to the detailed provisions of the guidelines.
+
+PROFESSIONAL EXCLUSION
+Certain registered practicing professionals such as doctors, engineers, lawyers, chartered accountants and architects are included in the exclusion categories, subject to the detailed official wording.
+
+CURRENT STATUS NOTE
+The PM-KISAN official portal should be treated as the live source for current announcements, beneficiary services, eKYC requirements, corrections, instalments and other operational updates. The rules and operational details shown in this project are for demonstration and should not be treated as an official eligibility determination.
+
+KEY QUESTIONS THIS DOCUMENT CAN ANSWER
+1. What is PM-KISAN?
+2. What benefit does it describe?
+3. Who is a farmer family under the scheme?
+4. What are major exclusion categories?
+5. Are certain government employees excluded?
+6. Are certain income-tax payers excluded?
+7. Are some registered professionals excluded?
+8. Where should I verify the current rules?
